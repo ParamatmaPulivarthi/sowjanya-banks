@@ -1,5 +1,4 @@
-bank~turnover
-
+banknames~turnover
 hdfc~15,34949.15
 icici~1025229.17
 kotakmah~4,02638.98
